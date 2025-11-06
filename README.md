@@ -52,7 +52,7 @@ The system finds faces in the frame, runs a custom-trained Keras/TensorFlow mode
    * test_data.npy: https://drive.google.com/file/d/1_zC4IZbbCKMnhvRRIOOVR0OaZxb6V66d/view?usp=drivesdk
    * test_labels.npy: https://drive.google.com/file/d/1Z2dlGl2FKGa0mQwQc9MlV7_awCDWbEzd/view?usp=drivesdk
    * train_labels.npy: https://drive.google.com/file/d/1fbL1DXm8dCArAIYO6E0UMHJJhprd9V1Z/view?usp=drivesdk
-   * train_data.npy:
+   * train_data.npy: https://drive.google.com/file/d/1-uqw94FWRa0J0d59OwAiwI6bezbZDojR/view?usp=drive_link
 
 6. Run the Project:
    python 3_run_webcam.py
