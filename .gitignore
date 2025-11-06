@@ -1,0 +1,12 @@
+# Ignore model and dataset files
+*.keras
+*.h5
+*.npy
+*.npz
+Face Mask Dataset/
+
+# Ignore environment and cache files
+__pycache__/
+*.pyc
+.env/
+venv/
